@@ -1,3 +1,5 @@
 # whulge
 
-An alternative term for Puget Sound, still used by some Native Americans and environmental groups, is Whulge (or Whulj), an anglicization of the Lushootseed name x̌ʷə́lč, which means "sea, salt water, ocean, or sound."
+![whulge](PugetSound-NASA.jpg)
+
+*Image captured by MODIS sensor on NASA's Terra and Aqua satellites on July 19, 2003. Original image showed the 2003 Fawn Peak Complex Fire. Was cropped to the Puget Sound region.*
